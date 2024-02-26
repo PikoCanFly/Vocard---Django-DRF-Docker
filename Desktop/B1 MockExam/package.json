@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@dnd-kit/sortable": "^7.0.2"
+  }
+}
